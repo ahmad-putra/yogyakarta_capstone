@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import openpyxl
+#import openpyxl
 
 st.title("MARI KITA LIHAT KESEHATAN DI YOGYAKARTA")
 
